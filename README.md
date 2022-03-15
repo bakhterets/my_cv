@@ -1,20 +1,25 @@
 # Ilia's Curriculum Vitae
 ## Summary
-My primary goal of my mission is to strongly integrate automation and monitoring at all steps of the software and system development. My experience is more than 6 years of engineering, administrating, automating and implementing IaC approaches. I believe that process automation makes software development better. I have strong skills at research, analyzing data, communications.
+My primary goal of my mission is to strongly integrate automation and   
+monitoring at all steps of the software and system development.   
+My experience is more than 6 years of engineering, administrating,    
+automating and implementing IaC approaches. I believe that process    
+automation makes software development better. I have strong skills at   
+research, analyzing data, communications.
+
 
 Hard Skills               |              |
 ------------------------- | -------------|
-Configuration Management  | Ansible, Ansible Tower, terraform, Microsoft SCCM.
-Infrastructure Management | Content Cell |
+Configuration Management  | Ansible, Ansible Tower, terraform, Microsoft SCCM
+Infrastructure            | Linux, Windows (DHCP, DNS, Sites and Services, Certificate Services and etc.), VMWare Server Appliance, PostgtreSQL, MariaDB, Nginx, Haproxy, Jira and Confluence (as service owner), GitLab (as service owner), AWX (as service owner)|
 Virtualization            |Hyper-V (VMM), ESXi (vCenter), KVM|
-Private Clouds            |Microsoft Azure Pack and Azure Stack, vCloud Director and vRealize Automation.|
-Clouds                    |AWS|
-Version Control Systems   |Git (GitLab, GitHub, Bitbucket), Subversion|
-CI/CD                     |GitLab generally|
-Programming               |bash, PowerShell, python|
+Private Clouds            |Microsoft Azure Pack and Azure Stack, vCloud Director and vRealize Automation
+Public Clouds             |AWS, Yandex, SberCloud|
+CI/CD and Development     |Git (GitLab, GitHub, Bitbucket), Subversion, Molecule, CI/CD – GitLab generally, jFrog Artifactory|
+Programming               |Bash, PowerShell, python|
 Containerization          |Docker, Podman, k8s, Helm|
-Monitoring                |Zabbix, Prometheus, Sentry, SCOM, Grafana, Grafana LOKI, Elastic Stack and Open Distro, VictoriaMetrics, Synthetic monitoring|
-Secondary experience      |jFrog Artifactory, NetBox, Molecule, PostgtreSQL, MariaDB, Jira, Confluence (as service owner), GitLab (as service owner), AWX (as service owner)|
+Monitoring                |Zabbix, Prometheus, Sentry, SCOM, Grafana, Grafana LOKI, Elastic Stack and Open Distro, VictoriaMetrics, Synthetic monitoring scripts (python, bash, PowerShell)|
+***
 
 ## Expirence
 ### Senior Monitoring Engineer (SRE role) “SberCloud” (cloud provider)
