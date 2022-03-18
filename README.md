@@ -1,11 +1,11 @@
 # Ilia's Curriculum Vitae
 ## Summary
-My primary goal of my mission is to strongly integrate automation and   
-monitoring at all steps of the software and system development.   
-My experience is more than 6 years of engineering, administrating,    
-automating and implementing IaC approaches. I believe that process    
-automation makes software development better. I have strong skills at   
-research, analyzing data, communications.
+I'm a System Engineer with 6 years of experience inengineering,     
+administrating, automating and implementing IaC approaches.   
+My goal is to implement automation and monitoring at all steps    
+of the software and system development. I believe that process    
+automation makes software development better. I have advanced   
+skills at research, analyzing data, communications.
 
 
 Hard Skills               |              |
@@ -31,7 +31,7 @@ May 2021 – now
 *	Development of non-standard monitoring solutions   
 *	Ensuring continuous operation of monitoring systems  
 *	Integration of monitoring systems with cloud products  
-*	Writing documentation  
+*	Records management  
 *	Incident management  
 
 #### Accomplishments
@@ -55,7 +55,7 @@ March 2019 – May 2021
 
 *	Implementation of the IaC approach in the work of the team    
 *	Migrating customer repositories from SVN to GitLab    
-*	Deployment a private cloud and migrate customer services and systems to a new cloud without downtime (From Azure Pack to vCloud vRealize)   
+*	Deployment of a private cloud and migration of customer services and systems to a new cloud without downtime (From Azure Pack to vCloud vRealize)   
 *	Project support for the development of a digital signature system for internal company documents as a DevOps engineer and project deployment    
 *	Contributed to DevOps School by T-Systems
 ***
@@ -64,7 +64,7 @@ Feb 2016 – March 2019
 
 #### Responsibilities
 
-*	Support and maintenance company infrastructure
+*	Support and maintenance of company infrastructure
 *	Software and hardware service
 *	Ensuring the smooth operation of production information systems
 *	Infrastructure architecture development
