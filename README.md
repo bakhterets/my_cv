@@ -1,6 +1,6 @@
 # Ilia's Curriculum Vitae
 ## Summary
-I'm a System Engineer with 6 years of experience inengineering,     
+I'm a System Engineer with 6 years of experience in engineering,     
 administrating, automating and implementing IaC approaches.   
 My goal is to implement automation and monitoring at all steps    
 of the software and system development. I believe that process    
