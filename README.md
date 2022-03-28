@@ -36,8 +36,8 @@ May 2021 – now
 
 #### Accomplishments
 
-*	Improving the automation of interaction between infrastructure systems and monitoring systems   
-*	Development of custom monitoring for VMWare products (Appliance and API vCloud Director)  
+*	Improving the automation of interaction between infrastructure systems and monitoring systems (Monitoring as code)   
+*	Development of custom monitoring for VMWare products (Appliance and API vCloud Director - monitoring the system from the inside)  
 *	Creation of geo-distributed monitoring for external Cloud services
 ***
 ### Senior System Administrator - “DEUTSCHE TELEKOM IT SOLUTIONS”
@@ -55,8 +55,8 @@ March 2019 – May 2021
 
 *	Implementation of the IaC approach in the work of the team    
 *	Migrating customer repositories from SVN to GitLab    
-*	Deployment of a private cloud and migration of customer services and systems to a new cloud without downtime (From Azure Pack to vCloud vRealize)   
-*	Project support for the development of a digital signature system for internal company documents as a DevOps engineer and project deployment    
+*	Deployment of a private cloud and migration of customer services and systems to a new cloud without downtime (700+ machines migrated from Azure Pack to VMWare vCloud with minimal downtime)   
+*	Project support for the development of a digital signature system for internal company documents as a DevOps engineer (Deployed the infrastructure for the project: k8s, DNS, HA, Helm and gitlab pipelines)    
 *	Contributed to DevOps School by T-Systems
 ***
 ### Senior System Administrator - “Svetlana JSC”
